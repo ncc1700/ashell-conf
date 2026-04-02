@@ -5,10 +5,18 @@ clock_format = "%I:%M %p"
 [appearance]
 font_name = "Jetbrains Mono"
 scale_factor = 1.13
+opacity = 0.7
+
+[appearance.menu]
+font_name = "Jetbrains Mono"
+scale_factor = 1
+opacity = 0.7
+
+
 
 
 [appearance.background_color]
-base = "#000000"
+base = "#202020"
 strong = "#000000"
 weak = "#000000"
 text = "#ffffff"
