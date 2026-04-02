@@ -34,3 +34,13 @@ strong = "#00c555"
 weak = "#006c10"
 text = "#ffffff"
 
+
+[appearance.text_color]
+base = "#ffffff"
+strong = "#ffffff"
+weak = "#ffffff"
+text = "#ffffff"
+
+
+
+
