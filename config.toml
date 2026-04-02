@@ -1,0 +1,28 @@
+[tempo]
+clock_format = "%I:%M %p"
+
+
+[appearance]
+font_name = "Jetbrains Mono"
+scale_factor = 1.13
+
+
+[appearance.background_color]
+base = "#000000"
+strong = "#000000"
+weak = "#000000"
+text = "#ffffff"
+
+
+[appearance.secondary_color]
+base = "#303030"
+strong = "#000000"
+weak = "#000000"
+text = "#ffffff"
+
+[appearance.primary_color]
+base = "#00aa52"
+strong = "#00c555"
+weak = "#006c10"
+text = "#ffffff"
+
